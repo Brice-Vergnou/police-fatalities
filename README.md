@@ -1,5 +1,5 @@
 # police-fatalities
 
-![image](https://user-images.githubusercontent.com/86613710/157126672-9f9faacc-bcf1-4484-8d18-1ac56c8f5134.png)
+![image](https://user-images.githubusercontent.com/86613710/157127446-7ed3dbf3-bee8-4d93-9d8c-159c1c8014e7.png)
 
-![image](https://user-images.githubusercontent.com/86613710/157126683-d2e73b24-85e5-4e36-9a7b-b4e50caefec9.png)
+![image](https://user-images.githubusercontent.com/86613710/157127493-197c5b8e-3778-41a8-961b-07711b7898c3.png)
