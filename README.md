@@ -2,6 +2,8 @@
 
 This data analysis project aimed to understand which are the different factors that may cause a blunder.
 
+👉 [The article](https://medium.com/@brice.vergnou/heres-how-media-make-data-lie-and-how-to-spot-it-ea620ed7520d)
+
 **Dataset link :**
 
 https://www.kaggle.com/kwullum/fatal-police-shootings-in-the-us
